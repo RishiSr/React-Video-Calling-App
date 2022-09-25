@@ -1,7 +1,4 @@
-import logo from './logo.svg';
 import './App.css';
-import AppBar from '@mui/material/AppBar';
-import Typography from '@mui/material/Typography';
 import Video from './Component/Video';
 import Header from './Component/Header';
 import Option from './Component/Option';
